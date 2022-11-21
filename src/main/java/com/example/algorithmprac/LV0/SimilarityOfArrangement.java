@@ -33,6 +33,8 @@ public class SimilarityOfArrangement {
                 }
             }
             return answer;
+
+            ikk
         }
     }
 
