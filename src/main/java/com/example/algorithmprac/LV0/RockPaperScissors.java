@@ -22,7 +22,7 @@ package com.example.algorithmprac.LV0;
 
 
 public class RockPaperScissors {
-    
+
 
     class Solution {
         public String solution(String rsp) {
