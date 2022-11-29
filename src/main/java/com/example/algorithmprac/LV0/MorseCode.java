@@ -47,7 +47,7 @@ package com.example.algorithmprac.LV0;
 import java.util.HashMap;
 
 public class MorseCode {
-    
+
     class Solution {
         public String solution(String letter) {
             String morseStr = "'.-':'a','-...':'b','-.-.':'c','-..':'d','.':'e','..-.':'f',"
